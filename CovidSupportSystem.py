@@ -49,7 +49,6 @@ def testargs(userInput, inputParam, errorMsg = "Invalid input. Try again"):
             else: userInput = input(errorMsg)
 
 
-
 mainMenu = ("""
 
 ***********************************************************************
