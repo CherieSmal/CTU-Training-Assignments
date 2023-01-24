@@ -1,3 +1,6 @@
+# CTU Training Solutions assignment instructions (CovidSupportSystem.py) link: https://drive.google.com/file/d/1KOOpxLfrr7EEP4upddeGS43omJIu29x6/view?usp=share_link
+# In collaboration with Jean Compion
+
 def testargs(userInput, inputParam, errorMsg = "Invalid input. Try again"):
     """
     An error handling function that returns input if it meets the argument specifications.
