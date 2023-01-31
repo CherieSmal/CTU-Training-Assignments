@@ -1,3 +1,6 @@
+# CTU Training Solutions assignment instructions (Lottery.py) link: https://drive.google.com/file/d/1g87ID-gIuXAcNOo7dd25Q524WKCEUUXx/view?usp=share_link
+# In collaboration with Jean Compion
+
 import random
 
 
