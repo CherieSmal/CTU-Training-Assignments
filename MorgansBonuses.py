@@ -1,3 +1,6 @@
+# CTU Training Solutions assignment instructions (MorgansBonuses.py) link: https://drive.google.com/file/d/1VcUpQ4o1jIPfHye1I-HszSZfWXfK4VYa/view?usp=sharing
+# In collaboration with Jean Compion
+
 def testinput(userInput, inputParam, errorMsg = "Invalid input. Try again"):
     """
     An error handling function that returns input if it meets the argument specifications.
