@@ -1,3 +1,6 @@
+# CTU Training Solutions assignment instructions (Interactive Dictionary.py) link: https://drive.google.com/file/d/12cDpMrr-d6hmSSK_FbRur-Sh3y4_dudc/view?usp=sharing
+# In collaboration with Jean Compion
+
 import json
 
 
