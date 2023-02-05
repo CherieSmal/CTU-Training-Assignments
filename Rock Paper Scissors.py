@@ -1,3 +1,6 @@
+# CTU Training Solutions assignment instructions (Rock Paper Scissors.py) link: https://drive.google.com/file/d/10nBCW5X3N8doAL0SIjNm6NTWpb_JhDdo/view?usp=sharing
+# In collaboration with Jean Compion
+
 import random
   
 
